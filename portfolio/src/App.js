@@ -1,11 +1,14 @@
 import './App.css';
-
+import Home from './components/Home';
 function App() {
-  return (
-    <div className="App">
-       <h1>This will be my portfolio website</h1>
-    </div>
-  );
+  return <>
+    
+  
+      <Home></Home>
+       
+       
+       </>
+  
 }
 
 export default App;
